@@ -9,7 +9,7 @@ The objective is to successfully launch a minimum viable product (MVP) and maint
 
 This game was developed as the final project for Code in Place 2025.
 
-Author: Arjun Kadaleevanam
+Author: https://github.com/newhandlerdev/
 Date: June 2025
 
 Features:
